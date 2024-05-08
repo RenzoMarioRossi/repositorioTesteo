@@ -1,0 +1,10 @@
+console.log("hola perreques");
+console.log("inserte_namber");
+var vaca;
+vaca = "muuuuuuuuuuuuu";
+console.log("como ace la vaca?");
+console.log(vaca);
+var base = 5;
+var altura = 10;
+console.log(base * altura);
+console.log(vaca);
