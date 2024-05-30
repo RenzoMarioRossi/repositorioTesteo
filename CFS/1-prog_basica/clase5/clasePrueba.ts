@@ -35,5 +35,5 @@ function dibujarGuiones(cantidad:number) {
 
 resultFuncion = calcularResultado(num1, num2, opcionMenu)
 dibujarGuiones(40);
-console.log("El resultado es ", resultFuncion);
+console.log("El resultado de la operación es ", resultFuncion);
 dibujarGuiones(40);
