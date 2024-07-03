@@ -1,0 +1,25 @@
+p{
+    color: blue;
+    font-size: 20px;
+
+}
+
+/*asi se comenta en css*/
+.vere{
+    color: green;
+
+}
+
+#ezpezial{
+    color: brown;
+    font-size: 50px;
+    background-color: beige;
+
+}
+
+body{
+background-image: url(../imagenes/IMG-20160515-WA0045.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
