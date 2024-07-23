@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^20.14.11",
+    "download-file-sync": "^1.0.4",
+    "fs-extra": "^11.2.0"
+  }
+}
